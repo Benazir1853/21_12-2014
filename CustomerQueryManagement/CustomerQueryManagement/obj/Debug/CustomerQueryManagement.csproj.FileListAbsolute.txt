@@ -1,0 +1,9 @@
+F:\21_12_2014\CustomerQueryManagement\CustomerQueryManagement\bin\Debug\CustomerQueryManagement.exe.config
+F:\21_12_2014\CustomerQueryManagement\CustomerQueryManagement\obj\Debug\CustomerQueryManagement.csprojResolveAssemblyReference.cache
+F:\21_12_2014\CustomerQueryManagement\CustomerQueryManagement\obj\Debug\CustomerQueryManagement.Properties.Resources.resources
+F:\21_12_2014\CustomerQueryManagement\CustomerQueryManagement\obj\Debug\CustomerQueryManagement.csproj.GenerateResource.Cache
+F:\21_12_2014\CustomerQueryManagement\CustomerQueryManagement\bin\Debug\CustomerQueryManagement.exe
+F:\21_12_2014\CustomerQueryManagement\CustomerQueryManagement\bin\Debug\CustomerQueryManagement.pdb
+F:\21_12_2014\CustomerQueryManagement\CustomerQueryManagement\obj\Debug\CustomerQueryManagement.exe
+F:\21_12_2014\CustomerQueryManagement\CustomerQueryManagement\obj\Debug\CustomerQueryManagement.pdb
+F:\21_12_2014\CustomerQueryManagement\CustomerQueryManagement\obj\Debug\CustomerQueryManagement.CustomerUI.resources
